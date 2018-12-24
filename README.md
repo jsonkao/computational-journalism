@@ -1,5 +1,12 @@
-# Frontiers of Computational Journalism by Jonathan Stray
-http://www.compjournalism.com/
+| Table of Contents |
+|-------------|
+| [General Resources](#general-resources) |
+| [High Dimensional Data](#high-dimensional-data)
+
+## General Resources
+
+- [Jonathan Stray's Frontiers of Computational Journalism course](http://www.compjournalism.com/)
+- [Information Retrieval Book](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 _Reporting on society, using computation, and reporting on computation in society._
 
@@ -18,3 +25,5 @@ Vector-izing data, then projecting it into K << R (typically K=2 or K=3)
   - also ignore stopwords and "de-weight" common words (e.g. "car" in car reviews). Document frequency `df(t,D)` = fraction of docs containing term
     - Inverse document frequency idf(t, D) = log(|D| / |d \in D : t \in d|)
   - [TF-IDF](https://planspace.org/20150524-tfidf_is_about_what_matters/) = tf(t,d) * idf(d, D) = term frequency * 1 / document frequency
+
+## Text Analysis
