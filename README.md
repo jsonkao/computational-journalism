@@ -11,6 +11,7 @@
 ## General Resources
 
 - [Jonathan Stray's Frontiers of Computational Journalism course](http://www.compjournalism.com/)
+- [Jun Yang's publications](https://users.cs.duke.edu/~junyang/)
 - [Information Retrieval Book](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 _Reporting on society, using computation, and reporting on computation in society._
