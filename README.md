@@ -1,7 +1,12 @@
 | Table of Contents |
 |-------------|
+| [Potential Projects](#potential-projects) |
 | [General Resources](#general-resources) |
 | [High Dimensional Data](#high-dimensional-data)
+
+## Potential Projects
+
+- Debiasing word embeddings (see [Man is to Computer Programmer as Woman is to Homemaker?](https://arxiv.org/pdf/1607.06520.pdf)]
 
 ## General Resources
 
